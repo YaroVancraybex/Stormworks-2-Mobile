@@ -24,7 +24,7 @@ NUMBERS CHANNEL:
 3 | AXIS 3
 4 | AXIS 4
 
-5 |
-6 |
-7 |
-8 |
+5 | SLIDER 1
+6 | SLIDER 2
+7 | SLIDER 3
+8 | SLIDER 4

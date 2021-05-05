@@ -13,19 +13,11 @@ Please follow the installation procedure step by step, it's not a hard one. If y
 3. Go to the installation directory of XAMPP and open the htdocs folder.
 4. Download the files from here (https://www.github.com/T1ckeR/Stormworks-2-Mobile/tree/main/Web%20Server) into the HTDOCS folder.
 5. Open the XAMPP application and start the Apache service. 
-6. Open Stormworks and make a new creation.
-7. Make a microcontroller and put a Lua block in there.
-8. If you want to use the image part of the app please put this (https://www.github.com/T1ckeR/Stormworks-2-Mobile/tree/main/Stormworks%20Scripts%2FimageScript.lua) Lua code into your microcontroller. If you want to use the control side of the app (joysticks, buttons, sliders) then please put this (https://www.github.com/T1ckeR/Stormworks-2-Mobile/tree/main/Stormworks%20Scripts%2FcontrolSystem.lua) code into your Lua block.
+6. Subscribe to both of the Stormworks2Mobile examples
+  - Image example: https://steamcommunity.com/sharedfiles/filedetails/?id=2477988328
+  - Control example: https://steamcommunity.com/sharedfiles/filedetails/?id=2477988328
+7. Spawn one of these creations into Stormworks and the corresponding feature should work. If you have any problems please reach out to our support team on Discord, we will be glad to help you.
 
-The control system Lua block hass the following composite outputs:
-<br>NUMBERS CHANNEL:
-<br>1 | AXIS 1
-<br>2 | AXIS 2
-<br>3 | AXIS 3
-<br>4 | AXIS 4
+# Discord
 
-<br>5 | SLIDER 1
-<br>6 | SLIDER 2
-<br>7 | SLIDER 3
-<br>8 | SLIDER 4
-<br><br>The image Lua block outputs just a video signal.
+You are always welcome on our Discord. https://discord.gg/7QxXZrZJeP

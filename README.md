@@ -15,3 +15,16 @@ Please follow the installation procedure step by step, it's not a hard one. If y
 5. Open the XAMPP application and start the Apache service. 
 6. Open Stormworks and make a new creation.
 7. Make a microcontroller and put a Lua block in there.
+8. If you want to use the image part of the app please put this (https://www.github.com/T1ckeR/Stormworks-2-Mobile/tree/main/Stormworks%20Scripts%2FimageScript.lua) Lua code into your microcontroller. If you want to use the control side of the app (joysticks, buttons, sliders) then please put this (https://www.github.com/T1ckeR/Stormworks-2-Mobile/tree/main/Stormworks%20Scripts%2FcontrolSystem.lua) code into your Lua block.
+
+The control system Lua block hass the following composite outputs:
+NUMBERS CHANNEL:
+1 | AXIS 1
+2 | AXIS 2
+3 | AXIS 3
+4 | AXIS 4
+
+5 |
+6 |
+7 |
+8 |

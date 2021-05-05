@@ -19,11 +19,12 @@ Please follow the installation procedure step by step, it's not a hard one. If y
 
 The control system Lua block hass the following composite outputs:
 <br>NUMBERS CHANNEL:
-1 | AXIS 1
-2 | AXIS 2
-3 | AXIS 3
-4 | AXIS 4
+<br>1 | AXIS 1
+<br>2 | AXIS 2
+<br>3 | AXIS 3
+<br>4 | AXIS 4
 
+<br>
 5 | SLIDER 1
 6 | SLIDER 2
 7 | SLIDER 3

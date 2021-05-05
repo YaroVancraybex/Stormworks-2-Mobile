@@ -12,4 +12,6 @@ Please follow the installation procedure step by step, it's not a hard one. If y
 2. Install XAMPP, here is a download link: https://www.apachefriends.org/download.html.
 3. Go to the installation directory of XAMPP and open the htdocs folder.
 4. Download the files from here (https://www.github.com/T1ckeR/Stormworks-2-Mobile/tree/main/Web%20Server) into the HTDOCS folder.
-5 Open the XAMPP application and start the Apache service. 
+5. Open the XAMPP application and start the Apache service. 
+6. Open Stormworks and make a new creation.
+7. Make a microcontroller and put a Lua block in there.

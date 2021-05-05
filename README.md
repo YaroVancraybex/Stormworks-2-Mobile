@@ -24,8 +24,7 @@ The control system Lua block hass the following composite outputs:
 <br>3 | AXIS 3
 <br>4 | AXIS 4
 
-<br>
-5 | SLIDER 1
-6 | SLIDER 2
+<br>5 | SLIDER 1
+<br>6 | SLIDER 2
 7 | SLIDER 3
 8 | SLIDER 4

@@ -28,4 +28,4 @@ The control system Lua block hass the following composite outputs:
 <br>6 | SLIDER 2
 <br>7 | SLIDER 3
 <br>8 | SLIDER 4
-<br>The image Lua block outputs just a video signal.
+<br><br>The image Lua block outputs just a video signal.

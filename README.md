@@ -13,7 +13,7 @@ Please follow the installation procedure step by step, it's not a hard one. If y
 2. Go back to your PC and open windows settings => Network & Internet => Click on properties at the top => Scroll down to IP settings and find the IPv4 adress (you will need it for the next step).
 3. Go back to your phone and open settings (left top) then tap on 'Host IP'. Now input the IP adress we found earlier on the computer.
 5. Install XAMPP, here is a download link: https://www.apachefriends.org/download.html.
-6. Go to the installation directory of XAMPP and open the htdocs folder.
+6. Go to the installation directory of XAMPP and open the htdocs folder. Now delete everything in the directory.
 7. Download the files from here (https://www.github.com/T1ckeR/Stormworks-2-Mobile/tree/main/Web%20Server) into the HTDOCS folder.
 8. Open the XAMPP application and start the Apache service. 
 9. Subscribe to both of the Stormworks2Mobile examples
